@@ -19,6 +19,7 @@ Try a getting started tutorial:
  * [Vue](https://www.meteor.com/tutorials/vue/creating-an-app)
  * [Svelte](https://www.meteor.com/tutorials/svelte/creating-an-app)
 
+ * [Svelte](https://www.meteor.com/tutorials/svelte/creating-an-app)
 Next, read the [guide](https://guide.meteor.com) and the [documentation](https://docs.meteor.com/).
 
 ## Quick Start
